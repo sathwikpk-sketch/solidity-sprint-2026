@@ -1,8 +1,8 @@
 # Session 02 — Build a Student Record Contract
 
-**Name:** <Sathwik PK>
-**Enrolment ID:** <AU24UG035>
-**Date submitted:** <16/09/2026>
+**Name:** Sathwik PK
+**Enrolment ID:** AU24UG035
+**Date submitted:** 16/09/2026
 
 ## 1. What this contract does
 This contract manages student records on-chain. A wallet address can register
