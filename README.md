@@ -10,3 +10,4 @@
 | 01 | Introduction to Blockchain & Solidity | Simple Storage Contract | Submitted |
 | 02 | Student Record Contract | Student Record Contract | Submitted |
 | 03 | Observable & Controlled Contracts | Student Record Contract with Events and Access Control | Submitted |
+| 04 | Secure Ether Vault | EtherVault Contract | Submitted |
