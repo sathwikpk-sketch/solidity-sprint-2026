@@ -1,0 +1,17 @@
+{
+  "name": "swk-token-hardhat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "hardhat test",
+    "deploy:sepolia": "hardhat ignition deploy ./ignition/modules/SWKToken.ts --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-ignition": "^0.15.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.22.0",
+    "typescript": "^5.4.0",
+    "chai": "^4.4.0"
+  }
+}
